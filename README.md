@@ -2,8 +2,8 @@
 Color scheme for Windows Terminal, based off of the Everforest vim/neovim theme.
 
 ## Usage
-1. Go to the Window Terminal `settings.json` file (bottom left)
-2. Paste the contents of `everforest.json` into the "schemes" property array
+1. Go to the Window Terminal `settings.json` file (bottom left).
+2. Paste the contents of `everforest.json` into the "schemes" property array.
 3. Set the colorscheme in `settings.json`.
 
 ![wtsettings](https://github.com/user-attachments/assets/dfd63dfb-85c5-4240-870f-2b73a5ecd8a4)
