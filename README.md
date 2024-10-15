@@ -1,5 +1,5 @@
 ## Introduction
-Color scheme for Windows Terminal, based off of the everforest vim/neovim theme.
+Color scheme for Windows Terminal, based off of the Everforest vim/neovim theme.
 
 ## Usage
 
