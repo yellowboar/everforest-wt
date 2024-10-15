@@ -1,0 +1,23 @@
+{
+  "background": "#414B50",
+  "black": "#414B50",
+  "blue": "#7FBBB3",
+  "brightBlack": "#6A7A82",
+  "brightBlue": "#9FCCC6",
+  "brightCyan": "#A2D0AD",
+  "brightGreen": "#BDD0A0",
+  "brightPurple": "#E0B3C8",
+  "brightRed": "#EC9EA0",
+  "brightWhite": "#DED4BF",
+  "brightYellow": "#E4CD9F",
+  "cursorColor": "#F3F5D9",
+  "cyan": "#83C092",
+  "foreground": "#D3C6AA",
+  "green": "#A7C080",
+  "name": "Everforest",
+  "purple": "#D699B6",
+  "red": "#E67E80",
+  "selectionBackground": "#F3F5D9",
+  "white": "#D3C6AA",
+  "yellow": "#DBBC7F"
+}
